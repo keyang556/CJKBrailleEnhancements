@@ -32,9 +32,9 @@ and optional spaces between Chinese characters, Latin letters and numbers."""),
 * Text wrap for CJK characters: off, at character boundaries, or repeating split characters (GMouse style) (NVDA issue #18295).
 * Optional spaces between Chinese characters, Latin letters and numbers in Chinese braille (NVDA issue #20726)."""),
 	# Author(s)
-	addon_author="Keyang556",
+	addon_author="Ken Chang",
 	# URL for the add-on documentation support
-	addon_url="https://github.com/keyang556/brl",
+	addon_url="https://github.com/keyang556/CJKBrailleEnhancements/",
 	# URL for the add-on repository where the source code can be found
 	addon_sourceURL="https://github.com/keyang556/brl",
 	# Documentation file name

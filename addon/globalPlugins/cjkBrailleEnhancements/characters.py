@@ -1,5 +1,5 @@
 # A part of the CJK Braille Enhancements add-on for NVDA
-# Copyright (C) 2026 Keyang556
+# Copyright (C) 2026 Ken Chang
 # This file is covered by the GNU General Public License, version 2 or later.
 # See the file COPYING.txt for more details.
 
